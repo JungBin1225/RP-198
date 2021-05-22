@@ -1,0 +1,1091 @@
+﻿Log file open, 05/21/21 18:33:01
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GSD20520
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185742
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: F:/EpicGames/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.21-09.33.01:414][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.21-09.33.01:414][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.21-09.33.01:414][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.21-09.33.01:415][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.21-09.33.01:415][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.21-09.33.01:456][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:456][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.21-09.33.01:457][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.21-09.33.01:458][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.21-09.33.01:458][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.21-09.33.01:458][  0]LogHAL: Display: Platform has ~ 32 GB [34232971264 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.21-09.33.01:458][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.21-09.33.01:458][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.21-09.33.01:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.21-09.33.01:459][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:459][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.21-09.33.01:459][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.21-09.33.01:459][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.21-09.33.01:459][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.21-09.33.01:459][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.21-09.33.01:459][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.21-09.33.01:459][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.21-09.33.01:459][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.21-09.33.01:459][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.21-09.33.01:459][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.21-09.33.01:459][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.21-09.33.01:459][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Editor.ini]
+[2021.05.21-09.33.01:459][  0]LogInit: Computer: DESKTOP-MVRG6SC
+[2021.05.21-09.33.01:459][  0]LogInit: User: w
+[2021.05.21-09.33.01:459][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.21-09.33.01:459][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.21-09.33.01:459][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.05.21-09.33.01:459][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.21-09.33.01:459][  0]LogMemory: Process Physical Memory: 140.98 MB used, 140.99 MB peak
+[2021.05.21-09.33.01:459][  0]LogMemory: Process Virtual Memory: 120.04 MB used, 120.04 MB peak
+[2021.05.21-09.33.01:459][  0]LogMemory: Physical Memory: 10460.31 MB used,  22186.80 MB free, 32647.11 MB total
+[2021.05.21-09.33.01:459][  0]LogMemory: Virtual Memory: 134200168.00 MB used,  17560.47 MB free, 134217728.00 MB total
+[2021.05.21-09.33.01:463][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.21-09.33.01:496][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.21-09.33.01:497][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.05.21-09.33.01:497][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.05.21-09.33.01:662][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.21-09.33.01:683][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.21-09.33.01:692][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.21-09.33.01:692][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.21-09.33.01:791][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.21-09.33.01:791][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.21-09.33.01:791][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.21-09.33.01:877][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2021.05.21-09.33.01:877][  0]LogD3D11RHI:       11127/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.21-09.33.01:903][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.05.21-09.33.01:903][  0]LogD3D11RHI:       128/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.21-09.33.01:905][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.21-09.33.01:905][  0]LogD3D11RHI:       0/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.21-09.33.01:905][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.21-09.33.01:910][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.21-09.33.01:910][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.21-09.33.01:910][  0]LogWindows: EnumDisplayDevices:
+[2021.05.21-09.33.01:910][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2021.05.21-09.33.01:911][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2021.05.21-09.33.01:911][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.05.21-09.33.01:911][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.05.21-09.33.01:911][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.21-09.33.01:911][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.21-09.33.01:911][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.21-09.33.01:912][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.05.21-09.33.01:912][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2021.05.21-09.33.01:912][  0]LogD3D11RHI:   Driver Version: 460.89 (internal:27.21.14.6089, unified:460.89)
+[2021.05.21-09.33.01:912][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.05.21-09.33.01:912][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2021.05.21-09.33.01:976][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.21-09.33.01:976][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.21-09.33.01:976][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.21-09.33.01:995][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.21-09.33.01:996][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.21-09.33.02:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.21-09.33.02:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.21-09.33.02:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.21-09.33.02:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.21-09.33.02:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.21-09.33.02:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.21-09.33.02:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.21-09.33.02:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.21-09.33.02:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.21-09.33.02:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.21-09.33.02:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.21-09.33.02:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.21-09.33.02:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.21-09.33.02:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.21-09.33.02:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.21-09.33.02:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.21-09.33.02:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.21-09.33.02:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.21-09.33.02:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.21-09.33.02:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.21-09.33.02:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.21-09.33.02:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.21-09.33.02:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.21-09.33.02:406][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.21-09.33.02:411][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.21-09.33.02:456][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.21-09.33.02:456][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (G:/Unreal/Projects/GSD20520/Intermediate/Shaders/WorkingDirectory/6360/).
+[2021.05.21-09.33.02:456][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/w/AppData/Local/Temp/UnrealShaderWorkingDir/D33D0C69485FB87712DB43AA8B361C99/'.
+[2021.05.21-09.33.02:456][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.21-09.33.02:456][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.21-09.33.03:057][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.21-09.33.03:097][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/w/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.21-09.33.03:098][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/w/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.21-09.33.03:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal/Projects/GSD20520/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.21-09.33.03:098][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.21-09.33.03:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal/Projects/GSD20520/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.21-09.33.03:098][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.21-09.33.03:108][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.21-09.33.03:108][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.21-09.33.03:108][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.21-09.33.03:116][  0]LogDerivedDataCache: Speed tests for C:/Users/w/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.21-09.33.03:116][  0]LogDerivedDataCache: Display: Performance to C:/Users/w/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1387.39MBs, RandomWriteSpeed=149.37MBs. Assigned SpeedClass 'Local'
+[2021.05.21-09.33.03:116][  0]LogDerivedDataCache: Using Local data cache path C:/Users/w/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.21-09.33.03:116][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.21-09.33.03:116][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.21-09.33.03:159][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.21-09.33.03:159][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.21-09.33.03:177][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2021.05.21-09.33.03:350][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.21-09.33.03:350][  0]LogInit: Active device profile: [0000022F4555E100][0000022F4306A800 49] Windows
+[2021.05.21-09.33.03:350][  0]LogInit: Profiles: [0000022F4555E100][0000022F4306A800 49] Windows, [0000022F454EC100][0000022F43072980 49] WindowsNoEditor, [0000022F454E4200][0000022F43076B00 49] WindowsServer, [0000022F454EC400][0000022F4307AC80 49] WindowsClient, [0000022F454E7C00][0000022F4307EE00 49] IOS, [0000022F454EFE00][0000022F43094F80 49] iPadAir, [0000022F454E4600][0000022F430A1100 49] iPadAir2, [0000022F45391A00][0000022F430D53C0 49] IPadPro, [0000022F45391B00][0000022F430AD400 49] iPadAir3, [0000022F454E7D00][0000022F430D9580 49] iPadAir4, [0000022F45390700][0000022F4306F6C0 49] iPadMini2, [0000022F454E4500][0000022F430DD800 49] iPadMini3, [0000022F45392200][0000022F430E5940 49] iPadMini4, [0000022F454E7900][0000022F430EDAC0 49] iPadMini5, [0000022F454EDA00][0000022F430F80C0 49] iPhone6, [0000022F454EF500][0000022F430F0100 49] iPodTouch6, [0000022F45391900][0000022F431043C0 49] iPhone7, [0000022F45393F00][0000022F43100400 49] iPodTouch7, [0000022F454ECF00][0000022F43108580 49] iPhone5S, [0000022F45391200][0000022F43118700 49] iPhone6Plus, [0000022F454EE000][0000022F4311C880 49] iPhone6S, [0000022F45393900][0000022F43120A00 49] iPhone6SPlus, [0000022F454ED100][0000022F43124B80 49] iPhone7Plus, [0000022F45391500][0000022F43128D00 49] iPhoneSE, [0000022F454EE300][0000022F4312CE80 49] iPhone8, [0000022F45393400][0000022F43131000 49] iPhone8Plus, [0000022F454ED700][0000022F4314D180 49] iPhoneX, [0000022F45390100][0000022F43151300 49] iPhoneXS, [0000022F454EE900][0000022F43155480 49] iPhoneXSMax, [0000022F45393000][0000022F43159600 49] iPhoneXR, [0000022F454EC500][0000022F430E9740 49] iPhone11, [0000022F45390500][0000022F4315D880 49] iPhone11Pro, [0000022F454ED300][0000022F42A739C0 49] iPhone11ProMax, [0000022F45391600][0000022F42A7BB40 49] iPhoneSE2, [0000022F454EFF00][0000022F42A7FCC0 49] iPhone12Mini, [0000022F45393600][0000022F42A82180 49] iPhone12, [0000022F454ED500][0000022F42A86300 49] iPhone12Pro, [0000022F45392D00][0000022F42A8A480 49] iPhone12ProMax, [0000022F454EF200][0000022F42A8E600 49] iPadPro105, [0000022F45392400][0000022F42A92780 49] iPadPro129, [0000022F454EC900][0000022F42A96900 49] iPadPro97, [0000022F45392A00][0000022F42A9AA80 49] iPadPro2_129, [0000022F454EFB00][0000022F42A9EC00 49] iPad5, [0000022F45392E00][0000022F42AA2D80 49] iPad6, [0000022F454EF300][0000022F42AA6F00 49] iPad7, [0000022F45391E00][0000022F42AAB080 49] iPad8, [0000022F454EF800][0000022F42AAF200 49] iPadPro11, [0000022F45392500][0000022F42AB3380 49] iPadPro2_11, [0000022F454EF700][0000022F42AB7500 49] iPadPro3_129, [0000022F45393700][0000022F42ABB680 49] iPadPro4_129, [0000022F454EEF00][0000022F42A777C0 49] AppleTV, [0000022F45393200][0000022F42ABF900 49] AppleTV4K, [0000022F454ED900][0000022F42AC3A40 49] TVOS, [0000022F45390A00][0000022F42AC7B80 49] Mac, [0000022F454EE100][0000022F42ACFD00 49] MacClient, [0000022F45393D00][0000022F42AD21C0 49] MacNoEditor, [0000022F454ECB00][0000022F42AD6340 49] MacServer, [0000022F45391D00][0000022F42ADA4C0 49] Linux, [0000022F454EC700][0000022F42ADE640 49] LinuxAArch64, [0000022F45391F00][0000022F42AE27C0 49] LinuxNoEditor, [0000022F454EE700][0000022F42AE6940 49] LinuxAArch64NoEditor, [0000022F45393C00][0000022F42AEAAC0 49] LinuxClient, [0000022F454EE400][0000022F42AEEC40 49] LinuxAArch64Client, [0000022F45393B00][0000022F42AF2DC0 49] LinuxServer, [0000022F454EF600][0000022F42AF6F40 49] LinuxAArch64Server, [0000022F45390300][0000022F42AFB0C0 49] Android, [0000022F454EDF00][0000022F42AFF240 49] Android_Low, [0000022F45390200][0000022F42B033C0 49] Android_Mid, [0000022F454E4A00][0000022F42B07540 49] Android_High, [0000022F4555C700][0000022F42B0B6C0 49] Android_Default, [0000022F454E5000][0000022F42ACB800 49] Android_Adreno4xx, [0000022F4555D900][0000022F42B0F940 49] Android_Adreno5xx_Low, [0000022F454E7800][0000022F42B13A80 49] Android_Adreno5xx, [0000022F4555C600][0000022F42B17BC0 49] Android_Adreno6xx, [0000022F454E6C00][0000022F42B1FD40 49] Android_Adreno6xx_Vulkan, [0000022F4555DA00][0000022F42B22200 49] Android_Mali_T6xx, [0000022F454E4800][0000022F42B26380 49] Android_Mali_T7xx, [0000022F4555C100][0000022F42B2A500 49] Android_Mali_T8xx, [0000022F454E6500][0000022F42B2E680 49] Android_Mali_G71, [0000022F4555D000][0000022F42B32800 49] Android_Mali_G72, [0000022F454E4B00][0000022F42B36980 49] Android_Mali_G72_Vulkan, [0000022F4555D800][0000022F42B3AB00 49] Android_Mali_G76, [0000022F454E5800][0000022F42B3EC80 49] Android_Mali_G76_Vulkan, [0000022F4555CB00][0000022F42B42E00 49] Android_Mali_G77, [0000022F454E4300][0000022F42B46F80 49] Android_Mali_G77_Vulkan, [0000022F4555D300][0000022F42B4B100 49] Android_Vulkan_SM5, [0000022F454E7000][0000022F42B4F280 49] Android_PowerVR_G6xxx, [0000022F4555D600][0000022F42B53400 49] Android_PowerVR_GT7xxx, [0000022F454E6200][0000022F42B57580 49] Android_PowerVR_GE8xxx, [0000022F4555C500][0000022F42B5B700 49] Android_PowerVR_GM9xxx, [0000022F454E4E00][0000022F42B5F880 49] Android_PowerVR_GM9xxx_Vulkan, [0000022F4555CC00][0000022F42B1B9C0 49] Android_TegraK1, [0000022F45392100][0000022F42B63B00 49] Android_Unknown_Vulkan, [0000022F454ECC00][0000022F42B67C40 49] Lumin, [0000022F45393100][0000022F42B6E100 49] Lumin_Desktop, [0000022F454EFA00][0000022F42B72280 49] HoloLens, 
+[2021.05.21-09.33.03:436][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.21-09.33.03:436][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.21-09.33.03:436][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.21-09.33.03:436][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.21-09.33.03:436][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.21-09.33.03:448][  0]LogNetVersion: GSD20520 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3716014301)
+[2021.05.21-09.33.03:766][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.21-09.33.03:791][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.026171 seconds
+[2021.05.21-09.33.03:795][  0]LogUObjectArray: 16728 objects as part of root set at end of initial load.
+[2021.05.21-09.33.03:795][  0]LogUObjectAllocator: 4183488 out of 0 bytes used by permanent object pool.
+[2021.05.21-09.33.03:795][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.21-09.33.04:054][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.21-09.33.04:057][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.21-09.33.04:285][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.21-09.33.04:300][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.21-09.33.04:300][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.21-09.33.04:344][  0]SourceControl: Source control is disabled
+[2021.05.21-09.33.04:344][  0]SourceControl: Source control is disabled
+[2021.05.21-09.33.04:346][  0]SourceControl: Source control is disabled
+[2021.05.21-09.33.04:349][  0]SourceControl: Source control is disabled
+[2021.05.21-09.33.04:355][  0]SourceControl: Source control is disabled
+[2021.05.21-09.33.04:357][  0]LogUProjectInfo: Found projects:
+[2021.05.21-09.33.04:370][  0]LogCollectionManager: Loaded 0 collections in 0.000514 seconds
+[2021.05.21-09.33.04:386][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal/Projects/GSD20520/Saved/Collections/' took 0.00s
+[2021.05.21-09.33.04:386][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal/Projects/GSD20520/Content/Developers/w/Collections/' took 0.00s
+[2021.05.21-09.33.04:386][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal/Projects/GSD20520/Content/Collections/' took 0.00s
+[2021.05.21-09.33.04:386][  0]LogOcInput: OculusInput pre-init called
+[2021.05.21-09.33.04:394][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.21-09.33.04:394][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.21-09.33.04:430][  0]LogEngine: Initializing Engine...
+[2021.05.21-09.33.04:431][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.21-09.33.04:431][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.21-09.33.04:511][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.21-09.33.04:517][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.21-09.33.04:530][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.21-09.33.04:533][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.21-09.33.04:533][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.21-09.33.04:533][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-09.33.04:533][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-09.33.04:533][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-09.33.04:533][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-09.33.04:533][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-09.33.04:533][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-09.33.04:533][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-09.33.04:533][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-09.33.04:533][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-09.33.04:533][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-09.33.04:571][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-09.33.04:571][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-09.33.04:605][  0]LogAudioMixer: Display: Using Audio Device 뒤 스피커 아웃풋(Realtek(R) Audio)
+[2021.05.21-09.33.04:607][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.21-09.33.04:608][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.21-09.33.04:608][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.21-09.33.04:609][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.21-09.33.04:609][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.21-09.33.04:609][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.21-09.33.04:609][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.21-09.33.04:609][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.21-09.33.04:609][  0]LogInit: FAudioDevice initialized.
+[2021.05.21-09.33.04:610][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.21-09.33.04:610][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.21-09.33.04:753][  0]LogDerivedDataCache: Saved boot cache 0.14s 77MB C:/Users/w/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.21-09.33.04:754][  0]LogInit: Texture streaming: Enabled
+[2021.05.21-09.33.04:764][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.21-09.33.04:767][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.21-09.33.04:767][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={76438DCB-4555-23A1-7DA7-D586FCF2A2F1}
+[2021.05.21-09.33.04:768][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.21-09.33.04:769][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.21-09.33.04:787][  0]LogInit: Transaction tracking system initialized
+[2021.05.21-09.33.04:802][  0]BlueprintLog: New page: Editor Load
+[2021.05.21-09.33.04:853][  0]LocalizationService: Localization service is disabled
+[2021.05.21-09.33.04:869][  0]TimingProfiler: Initialize
+[2021.05.21-09.33.04:870][  0]TimingProfiler: OnSessionChanged
+[2021.05.21-09.33.04:870][  0]LoadingProfiler: Initialize
+[2021.05.21-09.33.04:870][  0]LoadingProfiler: OnSessionChanged
+[2021.05.21-09.33.04:870][  0]NetworkingProfiler: Initialize
+[2021.05.21-09.33.04:870][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.21-09.33.04:870][  0]MemoryProfiler: Initialize
+[2021.05.21-09.33.04:870][  0]MemoryProfiler: OnSessionChanged
+[2021.05.21-09.33.04:953][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.21-09.33.04:953][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.21-09.33.05:062][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal/Projects/GSD20520/Content/' took 0.00s
+[2021.05.21-09.33.05:062][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.21-09.33.05:064][  0]SourceControl: Source control is disabled
+[2021.05.21-09.33.05:064][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.409
+[2021.05.21-09.33.05:064][  0]Cmd: MAP LOAD FILE="G:/Unreal/Projects/GSD20520/Content/StarterContent/Maps/KoKoDemo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.21-09.33.05:065][  0]LightingResults: New page: Lighting Build
+[2021.05.21-09.33.05:065][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-09.33.05:065][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-09.33.05:065][  0]MapCheck: New page: Map Check
+[2021.05.21-09.33.05:065][  0]LightingResults: New page: Lighting Build
+[2021.05.21-09.33.05:071][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.21-09.33.05:095][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.05.21-09.33.05:095][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Load BP . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:095][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Load BP . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:095][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  Target  no longer exists on node  Load BP . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:096][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  Wave  no longer exists on node  Load BP . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:096][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] Could not find a function named "LoadBP" in 'BP_wave'.
+Make sure 'BP_wave' has been compiled for  Load BP
+[2021.05.21-09.33.05:096][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  Enemies Alive  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:096][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  Enemies Alive  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:096][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  Enemies Alive  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:097][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Enemy Data . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:097][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set Enemy Data . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:097][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Enemy Data . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:097][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] In use pin  Hp  no longer exists on node  Set Enemy Data . Please refresh node or break links to remove pin.
+[2021.05.21-09.33.05:097][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] Input pin  Speed  specifying non-default value no longer exists on node  Set Enemy Data . Please refresh node or reset pin to default value to remove pin.
+[2021.05.21-09.33.05:097][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] Could not find a function named "SetEnemyData" in 'BP_wave'.
+Make sure 'BP_wave' has been compiled for  Set Enemy Data
+[2021.05.21-09.33.05:097][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2021.05.21-09.33.05:098][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] Failed to find class for pin  New Param
+[2021.05.21-09.33.05:098][  0]LogBlueprint: Error: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_wave.uasset: [Compiler] ICE SetVariableOnPersistentFrame - No property found.  New Param
+[2021.05.21-09.33.05:104][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\BP_Rocket.uasset: [Compiler] OnComponentHit (target)  does not have a valid matching component!
+[2021.05.21-09.33.05:311][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'KoKoDemo'.
+[2021.05.21-09.33.05:311][  0]LogAIModule: Creating AISystem for world KoKoDemo
+[2021.05.21-09.33.05:314][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/level/map) is flushing async loading
+[2021.05.21-09.33.05:314][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.05.21-09.33.05:321][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.21-09.33.05:328][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.21-09.33.05:328][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.21-09.33.05:329][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2021.05.21-09.33.05:329][  0]LogFileHelpers: Loading map 'KoKoDemo' took 0.264
+[2021.05.21-09.33.05:330][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.675
+[2021.05.21-09.33.05:411][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3593 classes and 852 folders.
+[2021.05.21-09.33.05:414][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.21-09.33.05:415][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.21-09.33.05:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.21-09.33.05:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.05.21-09.33.05:415][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.21-09.33.05:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.21-09.33.05:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.05.21-09.33.05:415][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.21-09.33.05:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.21-09.33.05:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.21-09.33.05:416][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-09.33.05:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.21-09.33.05:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.21-09.33.05:416][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.21-09.33.05:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.21-09.33.05:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.21-09.33.05:417][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.21-09.33.05:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.21-09.33.05:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.21-09.33.05:417][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.21-09.33.05:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.21-09.33.05:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.21-09.33.05:417][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.21-09.33.05:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.21-09.33.05:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.21-09.33.05:418][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.21-09.33.05:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.21-09.33.05:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.05.21-09.33.05:418][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.21-09.33.05:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.21-09.33.05:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.21-09.33.05:418][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.21-09.33.05:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.21-09.33.05:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.21-09.33.05:419][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.21-09.33.05:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.21-09.33.05:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.21-09.33.05:419][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-09.33.05:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.21-09.33.05:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.21-09.33.05:419][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.21-09.33.05:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.21-09.33.05:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.21-09.33.05:420][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.21-09.33.05:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.21-09.33.05:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.21-09.33.05:420][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.21-09.33.05:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.21-09.33.05:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.21-09.33.05:421][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.21-09.33.05:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.21-09.33.05:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.21-09.33.05:421][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.21-09.33.05:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.21-09.33.05:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.21-09.33.05:421][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-09.33.05:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.21-09.33.05:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.21-09.33.05:422][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-09.33.05:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.21-09.33.05:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.21-09.33.05:422][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.21-09.33.05:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.21-09.33.05:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.21-09.33.05:422][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.21-09.33.05:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.21-09.33.05:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.05.21-09.33.05:423][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.21-09.33.05:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.21-09.33.05:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.21-09.33.05:423][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.21-09.33.05:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.21-09.33.05:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.21-09.33.05:424][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.21-09.33.05:424][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:424][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.21-09.33.05:424][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.21-09.33.05:424][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.21-09.33.05:424][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.21-09.33.05:424][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.21-09.33.05:424][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.21-09.33.05:448][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.21-09.33.05:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-09.33.05:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-09.33.05:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-09.33.05:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-09.33.05:476][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.21-09.33.05:500][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.21-09.33.05:501][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.21-09.33.05:502][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.21-09.33.05:837][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.21-09.33.05:904][  0]LogRenderer: Reallocating scene render targets to support 1076x924 Format 10 NumSamples 1 (Frame:1).
+[2021.05.21-09.33.05:964][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.21-09.33.05:964][  0]LogLoad: (Engine Initialization) Total time: 5.31 seconds
+[2021.05.21-09.33.05:964][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.21-09.33.05:964][  0]LogInit: First time updating LLM stats...
+[2021.05.21-09.33.06:044][  0]LogAssetRegistry: Asset discovery search completed in 2.8680 seconds
+[2021.05.21-09.33.06:045][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.21-09.33.06:045][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.05.21-09.33.07:321][  4]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.21-09.33.09:321][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:321][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:321][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_Tower': Can't find file.
+[2021.05.21-09.33.09:321][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_Tower': Can't find file.
+[2021.05.21-09.33.09:321][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_wave': Can't find file.
+[2021.05.21-09.33.09:321][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_wave': Can't find file.
+[2021.05.21-09.33.09:322][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:322][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:322][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:322][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:322][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_Tower': Can't find file.
+[2021.05.21-09.33.09:322][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_wave': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Unable to load Default__BP_Enemy_C with outer Package /Game/StarterContent/BluePrint/2D/BP_Enemy because its class does not exist
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:326][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:327][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:329][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:329][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by BP_Enemy
+[2021.05.21-09.33.09:329][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_Tower': Can't find file.
+[2021.05.21-09.33.09:329][ 10]LoadErrors: Failed to load /Game/BPs/BP_Tower.BP_Tower_C Referenced by BP_Enemy
+[2021.05.21-09.33.09:329][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:329][ 10]LoadErrors: Failed to load /Game/BPs/BP_bullet.BP_bullet_C Referenced by BP_Enemy
+[2021.05.21-09.33.09:329][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:329][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:329][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:330][ 10]LoadErrors: Failed to load /Game/BPs/BP_bullet.BP_bullet_C Referenced by K2Node_CallArrayFunction_1
+[2021.05.21-09.33.09:330][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:330][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:330][ 10]LoadErrors: Failed to load /Game/BPs/BP_bullet.BP_bullet_C Referenced by K2Node_CallArrayFunction_2
+[2021.05.21-09.33.09:330][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:330][ 10]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_AddActorLocalOffset) bSelfContext == true, but no scope supplied!
+[2021.05.21-09.33.09:330][ 10]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorLocation) bSelfContext == true, but no scope supplied!
+[2021.05.21-09.33.09:330][ 10]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2021.05.21-09.33.09:330][ 10]LogBlueprint: Warning: FMemberReference::ResolveMember (Refresh Text) bSelfContext == true, but no scope supplied!
+[2021.05.21-09.33.09:330][ 10]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2021.05.21-09.33.09:330][ 10]LogBlueprint: Warning: FMemberReference::ResolveMember (Refresh Text) bSelfContext == true, but no scope supplied!
+[2021.05.21-09.33.09:330][ 10]LogBlueprint: Warning: FMemberReference::ResolveMember (Refresh Text) bSelfContext == true, but no scope supplied!
+[2021.05.21-09.33.09:330][ 10]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorLocation) bSelfContext == true, but no scope supplied!
+[2021.05.21-09.33.09:331][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_wave': Can't find file.
+[2021.05.21-09.33.09:331][ 10]LoadErrors: Failed to load /Game/BPs/BP_wave.BP_wave_C Referenced by K2Node_CallFunction_26
+[2021.05.21-09.33.09:331][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_wave': Can't find file.
+[2021.05.21-09.33.09:331][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:331][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_CallFunction_26
+[2021.05.21-09.33.09:331][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:331][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:331][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_CustomEvent_0
+[2021.05.21-09.33.09:331][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:331][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:331][ 10]LoadErrors: Failed to load /Game/BPs/BP_bullet.BP_bullet_C Referenced by K2Node_CustomEvent_0
+[2021.05.21-09.33.09:331][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:331][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:332][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_CustomEvent_1
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:332][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_CustomEvent_2
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:332][ 10]LoadErrors: Failed to load /Game/BPs/BP_bullet.BP_bullet_C Referenced by K2Node_CustomEvent_2
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:332][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_CustomEvent_3
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:332][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_CustomEvent_4
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_wave': Can't find file.
+[2021.05.21-09.33.09:332][ 10]LoadErrors: Failed to load /Game/BPs/BP_wave.BP_wave_C Referenced by K2Node_CustomEvent_4
+[2021.05.21-09.33.09:332][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_wave': Can't find file.
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:333][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableGet_0
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:333][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableGet_2
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:333][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableGet_3
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:333][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableGet_4
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:333][ 10]LoadErrors: Failed to load /Game/BPs/BP_bullet.BP_bullet_C Referenced by K2Node_VariableGet_5
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:333][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableGet_5
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:333][ 10]LoadErrors: Failed to load /Game/BPs/BP_bullet.BP_bullet_C Referenced by K2Node_VariableGet_6
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:333][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableGet_6
+[2021.05.21-09.33.09:333][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Game/BPs/BP_bullet': Can't find file.
+[2021.05.21-09.33.09:334][ 10]LoadErrors: Failed to load /Game/BPs/BP_bullet.BP_bullet_C Referenced by K2Node_VariableGet_7
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:334][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableGet_7
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:334][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableGet_8
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:334][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableSet_0
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:334][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableSet_1
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:334][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableSet_2
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:334][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:335][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableSet_3
+[2021.05.21-09.33.09:335][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:335][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:335][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by K2Node_VariableSet_4
+[2021.05.21-09.33.09:335][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:335][ 10]LogLinker: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\2D\BP_Enemy.uasset: Failed to load '/Script/GSD2_8292': Can't find file.
+[2021.05.21-09.33.09:335][ 10]LoadErrors: Failed to load /Script/GSD2_8292.Enemy Referenced by PackageMetaData
+[2021.05.21-09.33.09:335][ 10]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy_C
+[2021.05.21-09.33.09:360][ 10]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/BluePrint/2D/BP_Enemy.BP_Enemy
+[2021.05.21-09.33.10:777][ 10]LogSlate: Window 'Message' being destroyed
+[2021.05.21-09.33.10:779][ 10]Message dialog closed, result: Yes, title: Message, text: Blueprint could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed! Do you want to continue (it can crash the editor)?
+[2021.05.21-09.33.10:894][ 10]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.05.21-09.33.11:130][ 10]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.21-09.33.11:688][ 10]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.557 s
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: 
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 632]
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (BP_Enemy) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: Stack: 
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd64f8bd4f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd64dd7a8d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd64dd8433 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd64dd82cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6a987dc6 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6a9b1329 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6a988402 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac0ec08 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac48d67 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd641c93a7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd640c959d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6abfda41 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac24a05 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac2046a UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6abfc320 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac20adf UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6a9fc5f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aa1a933 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aa0fbb0 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aa3d3c7 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aafd25f UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aafd838 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60697e86 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd8fad2c11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd8fad3fad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd8fad3cda UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd4f089fdf UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd4f08a200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd4f077c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60f9b95d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60f5a800 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60ebb74c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60e79357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60dd8374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60ec6227 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60ebb93b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffda9fb2bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffdaa0368e7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffdaa01f4ce UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffdaa012de9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb82bc8f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb819197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb82e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb814310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffde5f8e858 USER32.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffde5f8e299 USER32.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb82f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a678848 UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a69117c UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a69125a UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a6a52bd UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a6a7fea UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffde5a87034 KERNEL32.DLL!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffde7842651 ntdll.dll!UnknownFunction []
+[2021.05.21-09.33.11:688][ 10]LogOutputDevice: Error: 
+[2021.05.21-09.33.11:691][ 10]LogStats:                SubmitErrorReport -  0.000 s
+[2021.05.21-09.33.12:818][ 10]LogStats:                    SendNewReport -  1.128 s
+[2021.05.21-09.33.12:818][ 10]LogStats:             FDebug::EnsureFailed -  1.688 s
+[2021.05.21-09.33.12:821][ 10]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.21-09.33.12:822][ 10]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: 
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 731]
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: Unable to resolve IsFieldInaccessible() - Blueprint (BP_Enemy) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: Stack: 
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd64f8cc2f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd64dd81df UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd64dd8433 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd64dd82cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6a987dc6 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6a9b1329 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6a988402 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac0ec08 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac48d67 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd641c93a7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd640c959d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6abfda41 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac24a05 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac2046a UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6abfc320 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6ac20adf UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6a9fc5f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aa1a933 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aa0fbb0 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aa3d3c7 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aafd25f UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd6aafd838 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60697e86 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd8fad2c11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd8fad3fad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd8fad3cda UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd4f089fdf UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd4f08a200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd4f077c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60f9b95d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60f5a800 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60ebb74c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60e79357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60dd8374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60ec6227 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffd60ebb93b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffda9fb2bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffdaa0368e7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffdaa01f4ce UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffdaa012de9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb82bc8f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb819197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb82e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb814310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffde5f8e858 USER32.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffde5f8e299 USER32.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffddb82f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a678848 UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a69117c UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a69125a UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a6a52bd UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ff78a6a7fea UE4Editor.exe!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffde5a87034 KERNEL32.DLL!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: [Callstack] 0x00007ffde7842651 ntdll.dll!UnknownFunction []
+[2021.05.21-09.33.12:822][ 10]LogOutputDevice: Error: 
