@@ -1,0 +1,1551 @@
+﻿Log file open, 05/23/21 22:56:39
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GSD20520
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.186678
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/StarterContent/Maps/KoKoDemo -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=G:/Unreal/Projects/GSD20520/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=-8 -WinY=-8 SAVEWINPOS=1 -ResX=1920 -ResY=1016
+LogInit: Base Directory: F:/EpicGames/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.23-13.56.39:669][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.23-13.56.39:669][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.23-13.56.39:669][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.23-13.56.39:713][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.23-13.56.39:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.23-13.56.39:714][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.23-13.56.39:714][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.23-13.56.39:714][  0]LogHAL: Display: Platform has ~ 32 GB [34232971264 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.23-13.56.39:714][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.23-13.56.39:714][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.23-13.56.39:714][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.23-13.56.39:715][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-13.56.39:715][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.23-13.56.39:716][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.23-13.56.39:716][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.23-13.56.39:716][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.23-13.56.39:716][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.23-13.56.39:716][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.23-13.56.39:716][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.23-13.56.39:716][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Engine.ini]
+[2021.05.23-13.56.39:716][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Unreal/Projects/GSD20520/Saved/Config/Windows/Editor.ini]
+[2021.05.23-13.56.39:716][  0]LogInit: Computer: DESKTOP-MVRG6SC
+[2021.05.23-13.56.39:716][  0]LogInit: User: w
+[2021.05.23-13.56.39:716][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.23-13.56.39:716][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.23-13.56.39:716][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.05.23-13.56.39:716][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.23-13.56.39:716][  0]LogMemory: Process Physical Memory: 137.28 MB used, 137.28 MB peak
+[2021.05.23-13.56.39:716][  0]LogMemory: Process Virtual Memory: 125.90 MB used, 125.90 MB peak
+[2021.05.23-13.56.39:716][  0]LogMemory: Physical Memory: 17326.93 MB used,  15320.18 MB free, 32647.11 MB total
+[2021.05.23-13.56.39:716][  0]LogMemory: Virtual Memory: 134210152.00 MB used,  7576.82 MB free, 134217728.00 MB total
+[2021.05.23-13.56.39:721][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.23-13.56.39:755][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.23-13.56.39:755][  0]LogInit: Using OS detected language (ko-KR).
+[2021.05.23-13.56.39:755][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.05.23-13.56.39:756][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.05.23-13.56.39:857][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.23-13.56.39:912][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.23-13.56.39:912][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.23-13.56.39:961][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.23-13.56.39:961][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.23-13.56.39:961][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.23-13.56.40:046][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2021.05.23-13.56.40:046][  0]LogD3D11RHI:       11127/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.23-13.56.40:073][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.05.23-13.56.40:073][  0]LogD3D11RHI:       128/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.23-13.56.40:075][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.23-13.56.40:075][  0]LogD3D11RHI:       0/0/16323 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.23-13.56.40:075][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.23-13.56.40:078][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.23-13.56.40:079][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.23-13.56.40:079][  0]LogWindows: EnumDisplayDevices:
+[2021.05.23-13.56.40:079][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2021.05.23-13.56.40:079][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2021.05.23-13.56.40:079][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.05.23-13.56.40:079][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.05.23-13.56.40:079][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.23-13.56.40:080][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.23-13.56.40:080][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.23-13.56.40:080][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.05.23-13.56.40:080][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2021.05.23-13.56.40:080][  0]LogD3D11RHI:   Driver Version: 460.89 (internal:27.21.14.6089, unified:460.89)
+[2021.05.23-13.56.40:080][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.05.23-13.56.40:080][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2021.05.23-13.56.40:149][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.23-13.56.40:149][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.23-13.56.40:149][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.23-13.56.40:174][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.23-13.56.40:175][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.23-13.56.40:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.23-13.56.40:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.23-13.56.40:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.23-13.56.40:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.23-13.56.40:424][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.23-13.56.40:429][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.23-13.56.40:472][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.23-13.56.40:472][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (G:/Unreal/Projects/GSD20520/Intermediate/Shaders/WorkingDirectory/23912/).
+[2021.05.23-13.56.40:472][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/w/AppData/Local/Temp/UnrealShaderWorkingDir/7AB1518744A633F06F16D392572644B3/'.
+[2021.05.23-13.56.40:473][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.23-13.56.40:473][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.23-13.56.41:073][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.23-13.56.41:110][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/w/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.23-13.56.41:110][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/w/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.23-13.56.41:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal/Projects/GSD20520/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.23-13.56.41:110][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.23-13.56.41:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal/Projects/GSD20520/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.23-13.56.41:110][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.23-13.56.41:120][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.23-13.56.41:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.23-13.56.41:120][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.23-13.56.41:128][  0]LogDerivedDataCache: Speed tests for C:/Users/w/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.23-13.56.41:128][  0]LogDerivedDataCache: Display: Performance to C:/Users/w/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1395.72MBs, RandomWriteSpeed=144.95MBs. Assigned SpeedClass 'Local'
+[2021.05.23-13.56.41:129][  0]LogDerivedDataCache: Using Local data cache path C:/Users/w/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.23-13.56.41:129][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.23-13.56.41:129][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.23-13.56.41:158][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.23-13.56.41:158][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.23-13.56.41:221][  0]LogInit: Using OS detected language (ko-KR).
+[2021.05.23-13.56.41:222][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.05.23-13.56.41:222][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the language.
+[2021.05.23-13.56.41:222][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the locale.
+[2021.05.23-13.56.41:222][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.05.23-13.56.41:222][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.05.23-13.56.41:232][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.05.23-13.56.41:234][  0]LogAssetRegistry: FAssetRegistry took 0.0012 seconds to start up
+[2021.05.23-13.56.41:356][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.000638 seconds
+[2021.05.23-13.56.41:403][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.23-13.56.41:403][  0]LogInit: Active device profile: [0000022EB2172100][0000022EA9CEF700 49] Windows
+[2021.05.23-13.56.41:403][  0]LogInit: Profiles: [0000022EB2172100][0000022EA9CEF700 49] Windows, [0000022EB212A100][0000022EAB17F880 49] WindowsNoEditor, [0000022EB2173E00][0000022EAB183A00 49] WindowsServer, [0000022EB2128400][0000022EAB187B80 49] WindowsClient, [0000022EB2170400][0000022EAB18BD00 49] IOS, [0000022EB212B400][0000022EAB18E1C0 49] iPadAir, [0000022EB2172A00][0000022EAB192340 49] iPadAir2, [0000022EB20D7900][0000022EAB19A600 49] IPadPro, [0000022EB20D7A00][0000022EAB196640 49] iPadAir3, [0000022EB2171700][0000022EAB19E7C0 49] iPadAir4, [0000022EB20D6600][0000022EAB1A2940 49] iPadMini2, [0000022EB2173800][0000022EAB1A6AC0 49] iPadMini3, [0000022EB20D4F00][0000022EAB1AAC40 49] iPadMini4, [0000022EB2170A00][0000022EAB1AEDC0 49] iPadMini5, [0000022EB20F3300][0000022EA9CF3040 49] iPhone6, [0000022EB20F3400][0000022EAB1B3080 49] iPodTouch6, [0000022EB20D7700][0000022EAB1BB2C0 49] iPhone7, [0000022EB20D7600][0000022EAB1B7300 49] iPodTouch7, [0000022EB20F2600][0000022EAB1BF440 49] iPhone5S, [0000022EB20D5800][0000022EAB1C75C0 49] iPhone6Plus, [0000022EB20F0E00][0000022EAB1CB740 49] iPhone6S, [0000022EB20D4400][0000022EAB1CF8C0 49] iPhone6SPlus, [0000022EB20F2D00][0000022EAB1D3A40 49] iPhone7Plus, [0000022EB20D7E00][0000022EAB1D7BC0 49] iPhoneSE, [0000022EB20F2700][0000022EAB1DBD40 49] iPhone8, [0000022EB20D4A00][0000022EAB1DE200 49] iPhone8Plus, [0000022EB20F2400][0000022EAB1E2380 49] iPhoneX, [0000022EB20D5900][0000022EAB1E6500 49] iPhoneXS, [0000022EB20F0700][0000022EAB1EA680 49] iPhoneXSMax, [0000022EB20D6800][0000022EAB1EE800 49] iPhoneXR, [0000022EB20F3700][0000022EAB1F2980 49] iPhone11, [0000022EB20D7400][0000022EAB1F6B00 49] iPhone11Pro, [0000022EB20F2300][0000022EAB1FAC80 49] iPhone11ProMax, [0000022EB20D5A00][0000022EAB1FEE00 49] iPhoneSE2, [0000022EB20F1900][0000022EAB202F80 49] iPhone12Mini, [0000022EB20D4500][0000022EAB207100 49] iPhone12, [0000022EB20F0400][0000022EAB1C3240 49] iPhone12Pro, [0000022EB20D6900][0000022EAB20B380 49] iPhone12ProMax, [0000022EB20F2900][0000022EAB20F4C0 49] iPadPro105, [0000022EB20D5500][0000022EAB217640 49] iPadPro129, [0000022EB20F1700][0000022EAB21B7C0 49] iPadPro97, [0000022EB20D6E00][0000022EAB21F940 49] iPadPro2_129, [0000022EB20F1000][0000022EAB223AC0 49] iPad5, [0000022EB20D5200][0000022EAB227C40 49] iPad6, [0000022EB212AB00][0000022EAB22A100 49] iPad7, [0000022EB20F2F00][0000022EAB22E280 49] iPad8, [0000022EB212B500][0000022EAB232400 49] iPadPro11, [0000022EB20F3D00][0000022EAB236580 49] iPadPro2_11, [0000022EB212BC00][0000022EAB23A700 49] iPadPro3_129, [0000022EB20F0800][0000022EAB23E880 49] iPadPro4_129, [0000022EB212A600][0000022EAB242A00 49] AppleTV, [0000022EB20F0A00][0000022EAB246B80 49] AppleTV4K, [0000022EB212A200][0000022EAB24AD00 49] TVOS, [0000022EB20F0C00][0000022EAB24EE80 49] Mac, [0000022EB212B300][0000022EAB253000 49] MacClient, [0000022EB20F2000][0000022EAB257180 49] MacNoEditor, [0000022EB2128300][0000022EAB2132C0 49] MacServer, [0000022EB20D4600][0000022EAB25B400 49] Linux, [0000022EB212A700][0000022EAB25F540 49] LinuxAArch64, [0000022EB20D5000][0000022EAB2676C0 49] LinuxNoEditor, [0000022EB212B800][0000022EAB26B840 49] LinuxAArch64NoEditor, [0000022EB20D6D00][0000022EAB26F9C0 49] LinuxClient, [0000022EB212B900][0000022EAB273B40 49] LinuxAArch64Client, [0000022EB20D6200][0000022EAB277CC0 49] LinuxServer, [0000022EB212BD00][0000022EAB27A180 49] LinuxAArch64Server, [0000022EB20D5700][0000022EAB27E300 49] Android, [0000022EB2129700][0000022EAB282480 49] Android_Low, [0000022EB20D4700][0000022EAB286600 49] Android_Mid, [0000022EB212BE00][0000022EAB28A780 49] Android_High, [0000022EB20D5B00][0000022EAB28E900 49] Android_Default, [0000022EB212AD00][0000022EAB292A80 49] Android_Adreno4xx, [0000022EB20D4D00][0000022EAB296C00 49] Android_Adreno5xx_Low, [0000022EB212A300][0000022EAB29AD80 49] Android_Adreno5xx, [0000022EB20D5F00][0000022EAB29EF00 49] Android_Adreno6xx, [0000022EB2129B00][0000022EAB2A3080 49] Android_Adreno6xx_Vulkan, [0000022EB20D6400][0000022EAB2A7200 49] Android_Mali_T6xx, [0000022EB2129100][0000022EAB263340 49] Android_Mali_T7xx, [0000022EB20D6100][0000022EAB2AB480 49] Android_Mali_T8xx, [0000022EB2129D00][0000022EAB2AF5C0 49] Android_Mali_G71, [0000022EB20D4200][0000022EAB2B3700 49] Android_Mali_G72, [0000022EB2129300][0000022EAB2BB880 49] Android_Mali_G72_Vulkan, [0000022EB20D7000][0000022EAB2BFA00 49] Android_Mali_G76, [0000022EB2129500][0000022EAB2C3B80 49] Android_Mali_G76_Vulkan, [0000022EB20D7D00][0000022EAB2C7D00 49] Android_Mali_G77, [0000022EB2129900][0000022EAB2CA1C0 49] Android_Mali_G77_Vulkan, [0000022EB20D6C00][0000022EB22F0340 49] Android_Vulkan_SM5, [0000022EB212B000][0000022EB22F44C0 49] Android_PowerVR_G6xxx, [0000022EB20D7100][0000022EB22F8640 49] Android_PowerVR_GT7xxx, [0000022EB212A400][0000022EB22FC7C0 49] Android_PowerVR_GE8xxx, [0000022EB20D4900][0000022EB2300940 49] Android_PowerVR_GM9xxx, [0000022EB212AF00][0000022EB2304AC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000022EB20D5600][0000022EB2308C40 49] Android_TegraK1, [0000022EB212BF00][0000022EB230CDC0 49] Android_Unknown_Vulkan, [0000022EB20D7500][0000022EB2310F40 49] Lumin, [0000022EB212A500][0000022EB23150C0 49] Lumin_Desktop, [0000022EB20D7F00][0000022EB2319240 49] HoloLens, 
+[2021.05.23-13.56.41:429][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.23-13.56.41:429][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.23-13.56.41:429][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.23-13.56.41:429][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.23-13.56.41:429][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.23-13.56.41:545][  0]LogNetVersion: GSD20520 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3716014301)
+[2021.05.23-13.56.41:750][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.23-13.56.41:823][  0]LogMoviePlayer: Initializing movie player
+[2021.05.23-13.56.41:986][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.23-13.56.41:989][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.23-13.56.42:022][  0]SourceControl: Source control is disabled
+[2021.05.23-13.56.42:022][  0]SourceControl: Source control is disabled
+[2021.05.23-13.56.42:024][  0]SourceControl: Source control is disabled
+[2021.05.23-13.56.42:028][  0]LogUProjectInfo: Found projects:
+[2021.05.23-13.56.42:060][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.23-13.56.42:068][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.23-13.56.42:068][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.23-13.56.42:147][  0]LogOcInput: OculusInput pre-init called
+[2021.05.23-13.56.42:153][  0]LogUObjectArray: 20152 objects as part of root set at end of initial load.
+[2021.05.23-13.56.42:153][  0]LogUObjectAllocator: 5368848 out of 0 bytes used by permanent object pool.
+[2021.05.23-13.56.42:153][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.23-13.56.42:185][  0]LogEngine: Initializing Engine...
+[2021.05.23-13.56.42:186][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.23-13.56.42:187][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.23-13.56.42:248][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.23-13.56.42:248][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.23-13.56.42:251][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.23-13.56.42:251][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.23-13.56.42:251][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.23-13.56.42:251][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.23-13.56.42:251][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.23-13.56.42:251][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.23-13.56.42:251][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.23-13.56.42:251][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.23-13.56.42:251][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.23-13.56.42:251][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.23-13.56.42:251][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.23-13.56.42:252][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.23-13.56.42:287][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.23-13.56.42:287][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.23-13.56.42:315][  0]LogAudioMixer: Display: Using Audio Device 뒤 스피커 아웃풋(Realtek(R) Audio)
+[2021.05.23-13.56.42:317][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.23-13.56.42:318][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.23-13.56.42:318][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.23-13.56.42:319][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.23-13.56.42:319][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.23-13.56.42:319][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.23-13.56.42:319][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.23-13.56.42:319][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.23-13.56.42:319][  0]LogInit: FAudioDevice initialized.
+[2021.05.23-13.56.42:319][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.23-13.56.42:319][  0]LogInit: Texture streaming: Enabled
+[2021.05.23-13.56.42:361][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.23-13.56.42:361][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-13.56.42:362][  0]LogInit: Display: Game Engine Initialized.
+[2021.05.23-13.56.42:362][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.05.23-13.56.42:382][  0]LogInit: Display: Starting Game.
+[2021.05.23-13.56.42:382][  0]LogNet: Browse: /Game/StarterContent/Maps/KoKoDemo?Name=Player
+[2021.05.23-13.56.42:382][  0]LogLoad: LoadMap: /Game/StarterContent/Maps/KoKoDemo?Name=Player
+[2021.05.23-13.56.42:382][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.05.23-13.56.42:383][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-13.56.42:383][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-13.56.42:388][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.23-13.56.42:389][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.23-13.56.42:527][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event 가  Crouch 입력 액션  에 대해 알려지지 않은 'Crouch' 액션을 참조합니다.
+[2021.05.23-13.56.42:528][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event 가  Jump 입력 액션  에 대해 알려지지 않은 'Jump' 액션을 참조합니다.
+[2021.05.23-13.56.42:528][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event 가  MoveForward 입력 축  에 대해 알려지지 않은 'MoveForward' 축을 참조합니다.
+[2021.05.23-13.56.42:528][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event 가  LookUp 입력 축  에 대해 알려지지 않은 'LookUp' 축을 참조합니다.
+[2021.05.23-13.56.42:528][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event 가  Turn 입력 축  에 대해 알려지지 않은 'Turn' 축을 참조합니다.
+[2021.05.23-13.56.42:528][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event 가  MoveRight 입력 축  에 대해 알려지지 않은 'MoveRight' 축을 참조합니다.
+[2021.05.23-13.56.42:581][  0]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\StarterContent\BluePrint\BP_Rocket.uasset: [Compiler] OnComponentHit (target)  에 일치하는 유효 컴포넌트가 없습니다.
+[2021.05.23-13.56.43:085][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'KoKoDemo'.
+[2021.05.23-13.56.43:090][  0]LogAIModule: Creating AISystem for world KoKoDemo
+[2021.05.23-13.56.43:094][  0]LogLoad: Game class is 'mode_RP198_C'
+[2021.05.23-13.56.43:121][  0]LogWorld: Bringing World /Game/StarterContent/Maps/KoKoDemo.KoKoDemo up for play (max tick rate 0) at 2021.05.23-22.56.43
+[2021.05.23-13.56.43:121][  0]LogWorld: Bringing up level for play took: 0.026824
+[2021.05.23-13.56.43:140][  0]LogLoad: Took 0.758041 seconds to LoadMap(/Game/StarterContent/Maps/KoKoDemo)
+[2021.05.23-13.56.43:473][  0]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2021.05.23-13.56.43:473][  0]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2021.05.23-13.56.43:473][  0]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:1).
+[2021.05.23-13.56.43:473][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.23-13.56.43:473][  0]LogLoad: (Engine Initialization) Total time: 4.65 seconds
+[2021.05.23-13.56.43:473][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.23-13.56.43:473][  0]LogInit: First time updating LLM stats...
+[2021.05.23-13.56.43:476][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.23-13.56.43:478][  0]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2021.05.23-13.56.43:478][  0]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2021.05.23-13.56.43:481][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-13.56.53:476][170]LogBlueprintUserMessages: [BP_wave_2] Round : 40
+[2021.05.23-13.56.53:477][170]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.23-13.56.53:682][213]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.53:963][272]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.54:302][341]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.54:310][343]LogBlueprintUserMessages: [BP_Enemy_C_0] 390.0
+[2021.05.23-13.56.54:364][354]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.54:594][402]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.54:642][411]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.54:695][421]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.54:810][441]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.56.54:868][451]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.54:928][462]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.54:935][463]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.54:979][471]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.55:135][498]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.55:196][509]LogBlueprintUserMessages: [BP_Enemy_C_0] 370.0
+[2021.05.23-13.56.55:275][523]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.55:320][531]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.55:505][562]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.55:541][568]LogBlueprintUserMessages: [BP_Enemy_C_1] 390.0
+[2021.05.23-13.56.55:615][581]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.55:658][588]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.55:728][600]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.55:735][601]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.55:952][636]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.55:971][639]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.55:997][643]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.56:038][649]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.56.56:106][659]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.56:179][670]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.56:291][687]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.56:340][694]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.56:416][705]LogBlueprintUserMessages: [BP_Enemy_C_1] 370.0
+[2021.05.23-13.56.56:422][706]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.56:576][728]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.56.56:632][736]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.56:674][742]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.56:681][743]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.56:791][758]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.56:942][779]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.56:973][783]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.57:003][787]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.57:025][790]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.57:161][808]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.57:311][827]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.57:327][829]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.56.57:368][834]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.57:410][839]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.57:474][847]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.57:501][850]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.57:653][868]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.57:713][875]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.57:806][886]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.57:815][887]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.57:824][888]LogBlueprintUserMessages: [BP_Enemy_C_2] 390.0
+[2021.05.23-13.56.57:857][892]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.57:920][899]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.58:001][908]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.58:056][914]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.58:210][936]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.56.58:341][955]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.58:395][962]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.58:571][986]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.56.58:577][987]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.58:585][988]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.58:634][995]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.58:641][996]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.58:686][  2]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.58:724][  7]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.58:739][  9]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.58:808][ 18]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.58:876][ 27]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.58:919][ 33]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.58:994][ 43]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.59:025][ 47]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.59:076][ 54]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.59:369][ 89]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.59:420][ 95]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.59:420][ 95]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.59:596][116]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.56.59:629][120]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.56.59:694][130]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.59:707][132]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.56.59:757][140]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.56.59:763][141]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.59:789][145]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.59:802][147]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.56.59:886][159]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.56.59:943][167]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.56.59:996][175]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.00:010][177]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.57.00:052][183]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.00:059][184]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.00:099][190]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.00:388][232]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.00:437][239]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.00:490][246]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.57.00:561][256]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.00:646][267]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.00:688][273]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.57.00:704][275]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.00:725][278]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.00:734][279]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.00:779][285]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.00:803][288]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.00:819][290]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.57.00:891][299]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:900][300]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:907][301]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:913][302]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:920][303]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.57.00:920][303]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:927][304]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:935][305]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:939][306]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:945][307]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:952][308]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:959][309]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:967][310]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:972][311]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:978][312]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:986][313]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.00:993][314]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:001][315]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:007][316]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:014][317]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:021][318]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.01:021][318]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:027][319]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:035][320]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:040][321]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:047][322]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:053][323]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:061][324]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.01:061][324]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:068][325]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.01:070][325]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:076][326]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:084][327]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:091][328]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:098][329]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:104][330]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:111][331]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:119][332]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.01:119][332]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.01:119][332]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:125][333]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:133][334]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:139][335]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:146][336]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:153][337]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:160][338]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:168][339]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:174][340]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:181][341]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:188][342]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:195][343]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:202][344]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:209][345]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:217][346]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:223][347]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:229][348]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:237][349]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:243][350]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:251][351]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:258][352]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:264][353]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:271][354]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:278][355]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:286][356]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:293][357]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:301][358]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:307][359]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:313][360]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:320][361]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:327][362]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:335][363]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:342][364]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:350][365]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:356][366]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:362][367]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:370][368]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:377][369]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:384][370]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:391][371]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:398][372]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:405][373]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:410][374]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.01:411][374]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:419][375]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.57.01:419][375]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:425][376]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:433][377]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:440][378]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:446][379]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:452][380]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:459][381]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.01:460][381]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:468][382]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:474][383]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:481][384]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:488][385]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.01:488][385]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:494][386]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:502][387]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:509][388]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:518][389]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:525][390]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:532][391]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:539][392]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:547][393]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:556][394]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:562][395]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:570][396]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.01:570][396]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:577][397]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:586][398]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:592][399]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:601][400]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:609][401]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:616][402]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:623][403]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:631][404]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:638][405]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.01:638][405]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:645][406]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:654][407]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.57.01:654][407]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:661][408]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:669][409]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:676][410]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:683][411]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:690][412]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:702][413]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:708][414]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:717][415]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:723][416]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:730][417]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:737][418]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:744][419]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:752][420]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.01:753][420]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:759][421]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:771][422]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:779][423]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:787][424]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:794][425]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:802][426]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.01:803][426]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:809][427]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:818][428]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:826][429]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:835][430]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.57.01:836][430]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:844][431]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.01:844][431]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:851][432]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.01:851][432]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.57.01:851][432]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:859][433]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:870][434]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:878][435]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:887][436]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:894][437]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:903][438]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:911][439]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:920][440]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:927][441]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:935][442]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:943][443]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:954][444]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.01:954][444]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:962][445]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:970][446]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:978][447]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:987][448]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.01:996][449]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:004][450]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:011][451]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:020][452]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:028][453]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:038][454]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:044][455]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:052][456]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:060][457]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:069][458]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.02:069][458]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:077][459]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:085][460]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:092][461]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.02:092][461]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:101][462]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:109][463]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:119][464]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:127][465]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:135][466]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.02:135][466]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:142][467]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.02:143][467]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:151][468]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:159][469]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:168][470]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:175][471]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:185][472]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:190][473]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:201][474]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:209][475]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:218][476]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:226][477]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:234][478]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:242][479]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:251][480]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:258][481]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:268][482]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:274][483]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:286][484]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:293][485]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:303][486]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:311][487]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:319][488]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:327][489]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:335][490]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:343][491]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:352][492]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:360][493]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:369][494]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:377][495]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:386][496]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:394][497]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:403][498]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:411][499]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:419][500]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:427][501]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:436][502]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.02:436][502]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:444][503]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:453][504]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:460][505]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:469][506]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:477][507]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:486][508]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.02:487][508]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:495][509]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:502][510]LogBlueprintUserMessages: [BP_wave_2] Boss Spawned
+[2021.05.23-13.57.02:503][510]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:510][511]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:521][512]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:528][513]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:537][514]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:544][515]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:554][516]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:562][517]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:571][518]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.57.02:571][518]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:579][519]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:589][520]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:597][521]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:605][522]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:613][523]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:621][524]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:629][525]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:639][526]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:646][527]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:654][528]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.02:654][528]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:662][529]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:671][530]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:679][531]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:688][532]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:696][533]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.57.02:696][533]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:705][534]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.02:705][534]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:713][535]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:722][536]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:729][537]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:738][538]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:746][539]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.02:746][539]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:754][540]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:763][541]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:772][542]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:780][543]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.02:780][543]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:787][544]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:796][545]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:805][546]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:813][547]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:822][548]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:828][549]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.02:829][549]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:839][550]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:846][551]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:859][552]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:869][553]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:879][554]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:889][555]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:899][556]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:908][557]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:919][558]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:927][559]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:936][560]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:946][561]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:956][562]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:964][563]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:973][564]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:984][565]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.02:993][566]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.02:994][566]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:005][567]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:013][568]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:022][569]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:030][570]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:039][571]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.03:039][571]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:049][572]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:058][573]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.03:058][573]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:068][574]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:078][575]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.57.03:078][575]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:088][576]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:101][577]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:108][578]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:114][579]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:124][580]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.03:125][580]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:137][581]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:148][582]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:155][583]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:164][584]LogBlueprintUserMessages: [BP_Tower_C_1] someout Out of range!
+[2021.05.23-13.57.03:164][584]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:172][585]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.03:173][585]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:184][586]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:192][587]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:204][588]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:213][589]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:222][590]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:234][591]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:242][592]LogBlueprintUserMessages: [BP_Tower_C_1] someone in radius!
+[2021.05.23-13.57.03:242][592]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:249][593]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:256][594]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:265][595]LogBlueprintUserMessages: [BP_Tower_C_0] someone in radius!
+[2021.05.23-13.57.03:266][595]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:273][596]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:281][597]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:289][598]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:297][599]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:305][600]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:313][601]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:321][602]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:328][603]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:338][604]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:346][605]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:355][606]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:362][607]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:370][608]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:378][609]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:388][610]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:396][611]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:404][612]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:412][613]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:421][614]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:429][615]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:439][616]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:446][617]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:454][618]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:462][619]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:472][620]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.03:473][620]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:479][621]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:488][622]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:496][623]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:506][624]LogBlueprintUserMessages: [BP_wave_2] Round40Spawning Ends
+[2021.05.23-13.57.03:506][624]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:514][625]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.03:515][625]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:523][626]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:530][627]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:538][628]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:546][629]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:554][630]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:564][631]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:571][632]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:580][633]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:588][634]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:597][635]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:605][636]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:613][637]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:621][638]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:629][639]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:638][640]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:647][641]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:656][642]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:663][643]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:672][644]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:681][645]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:690][646]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:699][647]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:708][648]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:718][649]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:726][650]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:737][651]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:745][652]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:755][653]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:764][654]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:773][655]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:781][656]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:790][657]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:800][658]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.57.03:800][658]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:807][659]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:817][660]LogBlueprintUserMessages: [BP_Tower_C_1] Tower Attacked!
+[2021.05.23-13.57.03:818][660]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:826][661]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:837][662]LogBlueprintUserMessages: [BP_Tower_C_0] someout Out of range!
+[2021.05.23-13.57.03:837][662]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:846][663]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:855][664]LogBlueprintUserMessages: [BP_Tower_C_0] Tower Attacked!
+[2021.05.23-13.57.03:855][664]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:864][665]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:872][666]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:884][667]LogBlueprintUserMessages: [Char_KoKo_C_0] GameOver in 3 seconds!
+[2021.05.23-13.57.03:946][667]LogPackageName: SearchForPackageOnDisk took   0.061s to resolve GameOverLevel.umap.
+[2021.05.23-13.57.04:004][668]LogPackageName: SearchForPackageOnDisk took   0.057s to resolve GameOverLevel.umap.
+[2021.05.23-13.57.04:004][668]LogNet: Browse: /Game/StarterContent/Maps/GameOverLevel
+[2021.05.23-13.57.04:004][668]LogLoad: LoadMap: /Game/StarterContent/Maps/GameOverLevel
+[2021.05.23-13.57.04:004][668]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/KoKoDemo
+[2021.05.23-13.57.04:004][668]LogWorld: UWorld::CleanupWorld for KoKoDemo, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-13.57.04:011][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-13.57.04:035][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.23-13.57.04:055][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.23-13.57.04:074][668]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameOverLevel'.
+[2021.05.23-13.57.04:075][668]LogAIModule: Creating AISystem for world GameOverLevel
+[2021.05.23-13.57.04:214][668]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event 가  Crouch 입력 액션  에 대해 알려지지 않은 'Crouch' 액션을 참조합니다.
+[2021.05.23-13.57.04:214][668]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event 가  Jump 입력 액션  에 대해 알려지지 않은 'Jump' 액션을 참조합니다.
+[2021.05.23-13.57.04:214][668]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event 가  MoveForward 입력 축  에 대해 알려지지 않은 'MoveForward' 축을 참조합니다.
+[2021.05.23-13.57.04:214][668]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event 가  LookUp 입력 축  에 대해 알려지지 않은 'LookUp' 축을 참조합니다.
+[2021.05.23-13.57.04:214][668]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event 가  Turn 입력 축  에 대해 알려지지 않은 'Turn' 축을 참조합니다.
+[2021.05.23-13.57.04:215][668]LogBlueprint: Warning: [AssetLog] G:\Unreal\Projects\GSD20520\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event 가  MoveRight 입력 축  에 대해 알려지지 않은 'MoveRight' 축을 참조합니다.
+[2021.05.23-13.57.04:346][668]LogLoad: Game class is 'mode_RP198_C'
+[2021.05.23-13.57.04:347][668]LogWorld: Bringing World /Game/StarterContent/Maps/GameOverLevel.GameOverLevel up for play (max tick rate 0) at 2021.05.23-22.57.04
+[2021.05.23-13.57.04:347][668]LogWorld: Bringing up level for play took: 0.000423
+[2021.05.23-13.57.04:349][668]LogLoad: Took 0.344248 seconds to LoadMap(/Game/StarterContent/Maps/GameOverLevel)
+[2021.05.23-13.57.15:348][927]LogSlate: Window 'GSD20520 (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.05.23-13.57.15:350][927]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft 입력기).
+[2021.05.23-13.57.15:355][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-13.57.15:355][927]LogEngine: All Windows Closed
+[2021.05.23-13.57.15:355][927]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.05.23-13.57.15:355][927]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.05.23-13.57.15:355][928]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.05.23-13.57.15:355][928]LogInit: Display: PreExit Game.
+[2021.05.23-13.57.15:362][928]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/GameOverLevel
+[2021.05.23-13.57.15:362][928]LogWorld: UWorld::CleanupWorld for GameOverLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-13.57.15:362][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-13.57.16:204][928]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.05.23-13.57.16:204][928]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.05.23-13.57.16:204][928]LogAudio: Display: Audio Device unregistered from world 'GameOverLevel'.
+[2021.05.23-13.57.16:233][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.23-13.57.16:234][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.23-13.57.16:241][928]LogAudio: Display: Audio Device Manager Shutdown
+[2021.05.23-13.57.16:243][928]LogExit: Preparing to exit.
+[2021.05.23-13.57.17:008][928]LogMoviePlayer: Shutting down movie player
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2172100] Windows
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2172000] Default__DeviceProfile
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212A100] WindowsNoEditor
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2173E00] WindowsServer
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2128400] WindowsClient
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2170400] IOS
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212B400] iPadAir
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2172A00] iPadAir2
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7900] IPadPro
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7A00] iPadAir3
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2171700] iPadAir4
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D6600] iPadMini2
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2173800] iPadMini3
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D4F00] iPadMini4
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2170A00] iPadMini5
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F3300] iPhone6
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F3400] iPodTouch6
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7700] iPhone7
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7600] iPodTouch7
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F2600] iPhone5S
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5800] iPhone6Plus
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F0E00] iPhone6S
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D4400] iPhone6SPlus
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F2D00] iPhone7Plus
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7E00] iPhoneSE
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F2700] iPhone8
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D4A00] iPhone8Plus
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F2400] iPhoneX
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5900] iPhoneXS
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F0700] iPhoneXSMax
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D6800] iPhoneXR
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F3700] iPhone11
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7400] iPhone11Pro
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F2300] iPhone11ProMax
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5A00] iPhoneSE2
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F1900] iPhone12Mini
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D4500] iPhone12
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F0400] iPhone12Pro
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D6900] iPhone12ProMax
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F2900] iPadPro105
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5500] iPadPro129
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F1700] iPadPro97
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D6E00] iPadPro2_129
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F1000] iPad5
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5200] iPad6
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212AB00] iPad7
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F2F00] iPad8
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212B500] iPadPro11
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F3D00] iPadPro2_11
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212BC00] iPadPro3_129
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F0800] iPadPro4_129
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212A600] AppleTV
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F0A00] AppleTV4K
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212A200] TVOS
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F0C00] Mac
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212B300] MacClient
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20F2000] MacNoEditor
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2128300] MacServer
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D4600] Linux
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212A700] LinuxAArch64
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5000] LinuxNoEditor
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212B800] LinuxAArch64NoEditor
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D6D00] LinuxClient
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212B900] LinuxAArch64Client
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D6200] LinuxServer
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212BD00] LinuxAArch64Server
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5700] Android
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2129700] Android_Low
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D4700] Android_Mid
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212BE00] Android_High
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5B00] Android_Default
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212AD00] Android_Adreno4xx
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D4D00] Android_Adreno5xx_Low
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212A300] Android_Adreno5xx
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5F00] Android_Adreno6xx
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2129B00] Android_Adreno6xx_Vulkan
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D6400] Android_Mali_T6xx
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2129100] Android_Mali_T7xx
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D6100] Android_Mali_T8xx
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2129D00] Android_Mali_G71
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D4200] Android_Mali_G72
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2129300] Android_Mali_G72_Vulkan
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7000] Android_Mali_G76
+[2021.05.23-13.57.17:140][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2129500] Android_Mali_G76_Vulkan
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7D00] Android_Mali_G77
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB2129900] Android_Mali_G77_Vulkan
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D6C00] Android_Vulkan_SM5
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212B000] Android_PowerVR_G6xxx
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7100] Android_PowerVR_GT7xxx
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212A400] Android_PowerVR_GE8xxx
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D4900] Android_PowerVR_GM9xxx
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212AF00] Android_PowerVR_GM9xxx_Vulkan
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D5600] Android_TegraK1
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212BF00] Android_Unknown_Vulkan
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7500] Lumin
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB212A500] Lumin_Desktop
+[2021.05.23-13.57.17:141][928]LogDeviceProfile: Device profile begin destroy: [0000022EB20D7F00] HoloLens
+[2021.05.23-13.57.17:147][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-13.57.17:152][928]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.05.23-13.57.17:154][928]LogExit: Game engine shut down
+[2021.05.23-13.57.17:179][928]LogExit: Object subsystem successfully closed.
+[2021.05.23-13.57.17:197][928]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module SequenceRecorder (496)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module AutomationController (494)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module AutomationWorker (492)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module Voice (490)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module AIModule (488)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module GameplayDebugger (487)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module AITestSuite (485)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module NavigationSystem (483)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module AnimGraph (480)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module OculusMR (478)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module PlanarCut (476)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (472)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (470)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module WebMMedia (468)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (466)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (464)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (462)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (460)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (458)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module SessionServices (456)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (454)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module LiveCoding (452)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module LevelSequence (450)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (448)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module MovieScene (446)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (444)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module PortalServices (442)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module PortalRpc (440)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module MessagingRpc (438)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (436)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module AudioMixerCore (435)
+[2021.05.23-13.57.17:203][928]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (432)
+[2021.05.23-13.57.17:205][928]LogModuleManager: Shutting down and abandoning module ProfilerService (430)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module TaskGraph (428)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module OculusInput (426)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module MotoSynth (424)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (422)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (421)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module GeometryCache (418)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (417)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (414)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (413)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module MeshConversion (410)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module DynamicMesh (408)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (406)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module GeometricObjects (404)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module ChaosNiagara (402)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module AutomationUtils (398)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module Synthesis (396)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module GooglePAD (390)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (385)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module AssetTags (378)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module AudioCapture (376)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (375)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (372)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module AppleImageUtils (370)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module AndroidPermission (368)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (366)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module MediaCompositing (364)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module ImgMedia (362)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module TemplateSequence (360)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (358)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (356)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (354)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (352)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (350)
+[2021.05.23-13.57.17:263][928]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (348)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module HotReload (347)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (346)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (342)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module UObjectPlugin (340)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (338)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (336)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module SourceControl (335)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module SoundFields (330)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module SignificanceManager (328)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (326)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (324)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (322)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (318)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (316)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (314)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module ActorSequence (312)
+[2021.05.23-13.57.17:264][928]LogModuleManager: Shutting down and abandoning module UdpMessaging (310)
+[2021.05.23-13.57.17:367][928]LogModuleManager: Shutting down and abandoning module TcpMessaging (308)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (306)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (304)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (302)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (300)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (298)
+[2021.05.23-13.57.18:007][928]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (296)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (292)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (290)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapController (288)
+[2021.05.23-13.57.18:007][928]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.05.23-13.57.18:007][928]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (286)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module FacialAnimation (278)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (276)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module Niagara (274)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module SignalProcessing (273)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module NiagaraEditor (271)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module NiagaraCore (268)
+[2021.05.23-13.57.18:007][928]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (266)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module TreeMap (265)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (262)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module AnimationSharing (260)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (258)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (256)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module Paper2D (254)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (252)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (250)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (248)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module PacketHandler (246)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (244)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (242)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module MediaAssets (240)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module Overlay (238)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module OverlayEditor (237)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module VREditor (234)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module StringTableEditor (232)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (230)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (228)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module FunctionalTesting (226)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (224)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (223)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module UMG (220)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module UMGEditor (219)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module Sequencer (218)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module MessageLog (215)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module SlateReflector (210)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module Slate (208)
+[2021.05.23-13.57.18:008][928]LogModuleManager: Shutting down and abandoning module SlateCore (206)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module UnrealEd (202)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module MRMesh (200)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module Messaging (198)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module Core (188)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module MaterialEditor (186)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module MovieSceneTools (184)
+[2021.05.23-13.57.18:009][928]LogModuleManager: Shutting down and abandoning module EditorStyle (183)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module KismetCompiler (180)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module MeshBuilder (178)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module MeshUtilities (176)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (175)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (174)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (173)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (171)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (169)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (158)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (156)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (137)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (121)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (119)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (117)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (115)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module Chaos (106)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (104)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (103)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module AVEncoder (102)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module ChaosCloth (96)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (94)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module ChunkDownloader (92)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2021.05.23-13.57.18:010][928]LogModuleManager: Shutting down and abandoning module WmfMedia (88)
+[2021.05.23-13.57.18:011][928]LogModuleManager: Shutting down and abandoning module Media (87)
+[2021.05.23-13.57.18:011][928]LogModuleManager: Shutting down and abandoning module MediaInfo (86)
+[2021.05.23-13.57.18:011][928]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (82)
+[2021.05.23-13.57.18:012][928]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.05.23-13.57.18:012][928]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.05.23-13.57.18:012][928]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.05.23-13.57.18:012][928]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.05.23-13.57.18:038][928]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.05.23-13.57.18:038][928]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.05.23-13.57.18:039][928]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.05.23-13.57.18:040][928]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.05.23-13.57.18:456][928]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.05.23-13.57.18:456][928]LogD3D11RHI: Shutdown
+[2021.05.23-13.57.18:456][928]LogD3D11RHI: CleanupD3DDevice
+[2021.05.23-13.57.18:463][928]LogExit: Exiting.
+[2021.05.23-13.57.18:473][928]Log file closed, 05/23/21 22:57:18
